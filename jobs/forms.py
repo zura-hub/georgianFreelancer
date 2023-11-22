@@ -33,6 +33,6 @@ class ArticlesForm(ModelForm):
             }),
             'data': DateTimeInput(attrs={
                 'class': 'form-control',
-                'placeholder': "data",
+                'placeholder': "data example 11-07-2023 22:18",
             }),
         }
